@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "hd-meta-facebook-white-logo-png-116403446124ydgyipr3u-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
